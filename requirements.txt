@@ -1,5 +1,5 @@
 streamlit
-newspaper3k
+newspaper3k==0.2.8
 transformers
 spacy
 googletrans==4.0.0-rc1
